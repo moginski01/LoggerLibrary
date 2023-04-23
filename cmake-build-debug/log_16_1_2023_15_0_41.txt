@@ -1,0 +1,20 @@
+16_1_2023_15_0_41 1Testowy log maina nr lini:13
+16_1_2023_15_0_41 2Testowy log maina nr lini:14
+16_1_2023_15_0_41 3Testowy log maina nr lini:15
+16_1_2023_15_0_42 1Testowy log maina nr lini:13
+16_1_2023_15_0_42 2Testowy log maina nr lini:14
+16_1_2023_15_0_42 3Testowy log maina nr lini:15
+16_1_2023_15_0_43 1Testowy log maina nr lini:13
+16_1_2023_15_0_43 2Testowy log maina nr lini:14
+16_1_2023_15_0_43 3Testowy log maina nr lini:15
+16_1_2023_15_0_43 Zrobienie dumpa 17
+16_1_2023_15_0_45 1Testowy log maina nr lini:13
+16_1_2023_15_0_45 2Testowy log maina nr lini:14
+16_1_2023_15_0_45 3Testowy log maina nr lini:15
+16_1_2023_15_0_45 Wyłączenie log nr lini:22
+16_1_2023_15_0_49 1Testowy log maina nr lini:13
+16_1_2023_15_0_49 2Testowy log maina nr lini:14
+16_1_2023_15_0_50 1Testowy log maina nr lini:13
+16_1_2023_15_0_50 2Testowy log maina nr lini:14
+16_1_2023_15_0_51 1Testowy log maina nr lini:13
+16_1_2023_15_0_51 2Testowy log maina nr lini:14

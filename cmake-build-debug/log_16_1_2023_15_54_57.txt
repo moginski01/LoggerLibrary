@@ -1,0 +1,21 @@
+16_1_2023_15_54_57 LOW Testowy log maina nr lini:14
+16_1_2023_15_54_57 NORMAL Testowy log maina nr lini:15
+16_1_2023_15_54_57 HIGH Testowy log maina nr lini:16
+16_1_2023_15_54_58 LOW Testowy log maina nr lini:14
+16_1_2023_15_54_58 NORMAL Testowy log maina nr lini:15
+16_1_2023_15_54_58 HIGH Testowy log maina nr lini:16
+16_1_2023_15_54_59 LOW Testowy log maina nr lini:14
+16_1_2023_15_54_59 NORMAL Testowy log maina nr lini:15
+16_1_2023_15_54_59 HIGH Testowy log maina nr lini:16
+16_1_2023_15_54_59 Zrobienie dumpa 18
+16_1_2023_15_55_0 LOW Testowy log maina nr lini:14
+16_1_2023_15_55_0 NORMAL Testowy log maina nr lini:15
+16_1_2023_15_55_0 HIGH Testowy log maina nr lini:16
+16_1_2023_15_55_0 Wyłączenie log nr lini:23
+16_1_2023_15_55_4 NORMAL Testowy log maina nr lini:15
+16_1_2023_15_55_4 HIGH Testowy log maina nr lini:16
+16_1_2023_15_55_5 NORMAL Testowy log maina nr lini:15
+16_1_2023_15_55_5 HIGH Testowy log maina nr lini:16
+16_1_2023_15_55_6 NORMAL Testowy log maina nr lini:15
+16_1_2023_15_55_6 HIGH Testowy log maina nr lini:16
+16_1_2023_15_55_7 Closing log 213

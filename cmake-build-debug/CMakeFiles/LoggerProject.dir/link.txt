@@ -1,0 +1,1 @@
+/usr/bin/cc -pthread -g   CMakeFiles/LoggerProject.dir/main.c.o CMakeFiles/LoggerProject.dir/log.c.o  -o LoggerProject 
